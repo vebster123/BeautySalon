@@ -1,3 +1,17 @@
+![Alt text](https://github.com/vebster123/BeautySalon/blob/master/Screenshot_1.png "Вкладка услуги, добавление, редактирование")
+
+![Alt text](https://github.com/vebster123/BeautySalon/blob/master/Screenshot_2.png "Вкладка персонал, добавление, редактирование времени работы")
+
+![Alt text](https://github.com/vebster123/BeautySalon/blob/master/Screenshot_4.png "Главное окно, где можно выбирать мастера и записывать клиента")
+
+![Alt text](https://github.com/vebster123/BeautySalon/blob/master/Screenshot_5.png "склад, учет расходных материалов")
+
+![Alt text](https://github.com/vebster123/BeautySalon/blob/master/Screenshot_7.png "возможность создание отчета")
+
+![Alt text](https://github.com/vebster123/BeautySalon/blob/master/Screenshot_8.png "редактирование информации и расписания работы салона")
+
+
+
 # datao
 [coursework] Managing system for beauty salon
 ------
