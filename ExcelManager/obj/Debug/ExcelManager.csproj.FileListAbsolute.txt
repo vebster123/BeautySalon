@@ -1,0 +1,8 @@
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\obj\Debug\ExcelManager.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\bin\Debug\EPPlus.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\bin\Debug\ExcelManager.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\bin\Debug\ExcelManager.pdb
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\bin\Debug\Organization.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\bin\Debug\Organization.pdb
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\obj\Debug\ExcelManager.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\ExcelManager\obj\Debug\ExcelManager.pdb
