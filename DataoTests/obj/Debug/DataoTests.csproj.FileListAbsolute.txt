@@ -1,0 +1,11 @@
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\DataoTests.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\DataoTests.pdb
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\ExcelManager.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\Organization.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\ExcelManager.pdb
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\Organization.pdb
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\obj\Debug\DataoTests.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\obj\Debug\DataoTests.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\DataoTests\obj\Debug\DataoTests.pdb
