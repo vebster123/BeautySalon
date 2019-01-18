@@ -1,0 +1,5 @@
+C:\Users\Maxim\Desktop\Новая папка\datao-master\Organization\bin\Debug\Organization.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\Organization\bin\Debug\Organization.pdb
+C:\Users\Maxim\Desktop\Новая папка\datao-master\Organization\obj\Debug\Organization.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\Новая папка\datao-master\Organization\obj\Debug\Organization.dll
+C:\Users\Maxim\Desktop\Новая папка\datao-master\Organization\obj\Debug\Organization.pdb
